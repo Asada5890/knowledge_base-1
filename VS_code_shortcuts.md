@@ -6,7 +6,8 @@
 * `Ctrl + Home` - go to the beginning of the current file
 * `Ctrl + End` - go to the end of the current line
 * `Ctrl + Right Arrow` - go to the next word
-* `Alt + Down Arrow ` - move the current line down
+* `Ctrl + Shift + Right Arrow` - select to the next word
+* `Alt + Down Arrow ` - move the current line (selected lines) down
 * `Alt + Shift + Down Arrow ` - copy the current line down
 * `Ctrl + Enter` - add a new empty line below
 * `Ctrl + Shift + Enter` - add a new empty line above
