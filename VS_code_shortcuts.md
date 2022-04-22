@@ -11,7 +11,7 @@
 * `Alt + Shift + Down Arrow ` - copy the current line down
 * `Ctrl + Enter` - add a new empty line below
 * `Ctrl + Shift + Enter` - add a new empty line above
-* `Ctrl + L` - select the current line
+* `Ctrl + L` - select the current line, several lines can be selected (press twice or more)
 * `Ctrl + Shift + K` - remove the current line
 * `Ctrl + С` - copy the current line (without selection)
 * `Ctrl + X` - cut the current line (without selection)
@@ -23,5 +23,4 @@
 * `Ctrl + J` - toggle panel (Terminal, Debug etc.)
 * `Ctrl + B` - toggle Primary Sidebar
 * `Ctrl + Shift + M` - go to the Problems Tab
-* `Ctrl + Shift + E` - go to the Explorer Panel
 * `Ctrl + Shift + E` - go to the Explorer Panel
