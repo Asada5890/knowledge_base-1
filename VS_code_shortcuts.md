@@ -16,6 +16,7 @@
 * `Ctrl + С` - copy the current line (without selection)
 * `Ctrl + X` - cut the current line (without selection)
 * `Ctrl + G` - go to the line
+* `Ctrl + [` - tab the current line
 * `Ctrl + Tab` - switch between tabs
 
 ## Interface & Settings
