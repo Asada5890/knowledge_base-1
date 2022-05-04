@@ -4,7 +4,7 @@
     * `int` - integer (целое число)
     * `float` - float (вещественное число)
     * `bool` - boolean (булево значение)
-    * `None` - null object ("пустой" тип) 
+    * `None` - null object ("пустой" объект) 
 * iterable (итерируемые)
     * `str` - string (строка)
     * `list` - список
